@@ -1,0 +1,22 @@
+{
+  "faculties": [
+    {
+      "name": "Факультет Информационных Технологий",
+      "directions": [
+        {
+          "name": "Программная инженерия",
+          "methodics": [
+            {
+              "title": "Методичка по Java",
+              "fileUrl": "https://example.com/java.pdf"
+            },
+            {
+              "title": "Методичка по Android",
+              "fileUrl": "https://example.com/android.pdf"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
