@@ -8,11 +8,11 @@
           "methodics": [
             {
               "title": "Методичка по Java Core",
-              "fileUrl": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+              "fileUrl": "https://axiomabio.com/pdf/test.pdf"
             },
             {
               "title": "Руководство по Android разработке",
-              "fileUrl": "https://www.africau.edu/images/default/sample.pdf"
+              "fileUrl": "https://axiomabio.com/pdf/test.pdf"
             }
           ]
         },
@@ -21,11 +21,11 @@
           "methodics": [
             {
               "title": "Основы алгоритмов и структур данных",
-              "fileUrl": "https://www.clickdimensions.com/links/TestPDFfile.pdf"
+              "fileUrl": "https://axiomabio.com/pdf/test.pdf"
             },
             {
               "title": "Введение в Kotlin",
-              "fileUrl": "https://www.adobe.com/support/products/enterprise/knowledgecenter/kt18600_creative_suite_sdk/pdfs/Acrobat_SDK_Developer_Guide.pdf"
+              "fileUrl": "https://axiomabio.com/pdf/test.pdf"
             }
           ]
         },
@@ -34,11 +34,11 @@
           "methodics": [
             {
               "title": "Методичка по кибербезопасности",
-              "fileUrl": "https://files.stroyinf.ru/Data2/1/4293756/4293756772.pdf"
+              "fileUrl": "https://axiomabio.com/pdf/test.pdf"
             },
             {
               "title": "Введение в искусственный интеллект",
-              "fileUrl": "https://www.unn.ru/pages/e-library/ai/ai.pdf"
+              "fileUrl": "https://axiomabio.com/pdf/test.pdf"
             }
           ]
         },
@@ -47,11 +47,11 @@
           "methodics": [
             {
               "title": "Методичка по web-разработке",
-              "fileUrl": "https://www.mirea.ru/upload/medialibrary/6b2/web-programming.pdf"
+              "fileUrl": "https://axiomabio.com/pdf/test.pdf"
             },
             {
               "title": "Методичка по базам данных",
-              "fileUrl": "https://www.bsuir.by/m/12_100027_1_147192.pdf"
+              "fileUrl": "https://axiomabio.com/pdf/test.pdf"
             }
           ]
         }
@@ -65,11 +65,11 @@
           "methodics": [
             {
               "title": "Основы экономики",
-              "fileUrl": "https://www.buds.ru/pdf/1301/metodichka-ekonomika-1.pdf"
+              "fileUrl": "https://axiomabio.com/pdf/test.pdf"
             },
             {
               "title": "Макроэкономика",
-              "fileUrl": "https://www.buds.ru/pdf/1301/metodichka-ekonomika-2.pdf"
+              "fileUrl": "https://axiomabio.com/pdf/test.pdf"
             }
           ]
         },
@@ -78,11 +78,11 @@
           "methodics": [
             {
               "title": "Финансовый менеджмент",
-              "fileUrl": "https://www.fa.ru/org/faculty/pmf/Documents/ucheb-metod/finansovy_menedzhment.pdf"
+              "fileUrl": "https://axiomabio.com/pdf/test.pdf"
             },
             {
               "title": "Бухгалтерский учет",
-              "fileUrl": "https://www.fa.ru/org/faculty/pmf/Documents/ucheb-metod/buhgalterskiy-uchet.pdf"
+              "fileUrl": "https://axiomabio.com/pdf/test.pdf"
             }
           ]
         }
